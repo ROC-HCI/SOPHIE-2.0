@@ -1,0 +1,111 @@
+user_id,email_m3_id,user_group,timestamp,age,gender,sex_assigned_at_birth,race,ethnicity,childhood_social_class,clinical_experience,education_completion_date,urmc_act_training,other_communication_training,interacted_with_sophie_before
+98,[Redacted],GROUP_006,2026-07-28 06:35:48,25-34,woman,,asian,,,attending,,0,,0
+99,[Redacted],GROUP_006,2026-07-28 06:35:48,55-64,man,,white,,,attending,,0,,0
+100,[Redacted],GROUP_006,2026-07-28 06:35:48,25-34,man,,asian,,,attending,,0,,0
+101,[Redacted],GROUP_006,2026-07-28 06:35:48,35-44,woman,,white,,,practitioner,,0,,0
+102,[Redacted],GROUP_006,2026-07-28 06:35:48,25-34,woman,,middle_eastern,,,Family medicine,,0,,0
+103,[Redacted],GROUP_006,2026-07-28 06:35:48,45-54,woman,,white,,,OB/GYN,,0,I am enrolled in the RiseGuide,0
+104,[Redacted],GROUP_006,2026-07-28 06:35:48,35-44,man,,black,,,Family Medicine Physician at Residency Program,,0,Implicit Bias Training,0
+105,[Redacted],GROUP_005,2026-07-28 06:35:48,25-34,man,,white,,,MD/PhD G3,,0,,0
+106,[Redacted],GROUP_005,2026-07-28 06:35:48,18-24,woman,,latino,,,medical_student,,0,,0
+107,[Redacted],GROUP_006,2026-07-28 06:35:48,25-34,man,,asian,,,attending,,0,,0
+108,[Redacted],GROUP_008,2026-07-28 06:35:48,35-44,woman,,latino,,,attending,,0,,0
+109,[Redacted],GROUP_006,2026-07-28 06:35:48,35-44,man,,prefer_not,,,attending,,0,,0
+110,[Redacted],GROUP_006,2026-07-28 06:35:48,45-54,woman,,white,,,family medicine,,0,,0
+111,[Redacted],GROUP_006,2026-07-28 06:35:48,55-64,man,,asian,,,attending,,0,,0
+88,[Redacted],GROUP_006,2026-07-28 06:35:48,45-54,woman,,white,,,Pediatrics,,0,,0
+112,[Redacted],GROUP_006,2026-07-28 06:35:48,35-44,woman,,white,,,attending,,0,,0
+113,[Redacted],GROUP_006,2026-07-28 06:35:48,45-54,woman,,white,,,Internal Medicine,,0,,0
+114,[Redacted],GROUP_006,2026-07-28 06:35:48,65+,man,,white,,,attending,,0,,0
+90,[Redacted],GROUP_006,2026-07-17 02:47:09,45-54,woman,,white,,,obgyn,,0,,0
+91,[Redacted],GROUP_006,2026-07-17 02:47:09,55-64,woman,,white,,,OB GYN,,0,,0
+92,[Redacted],GROUP_006,2026-07-17 02:47:09,45-54,woman,,white,,,attending,,0,,0
+93,[Redacted],GROUP_006,2026-07-17 02:47:09,45-54,man,,asian,,,practitioner,,0,,0
+94,[Redacted],GROUP_006,2026-07-17 02:47:09,35-44,man,,white,,,attending,,0,,0
+95,[Redacted],GROUP_006,2026-07-17 02:47:09,35-44,man,,asian,,,attending,,0,,0
+97,[Redacted],GROUP_006,2026-07-17 02:47:09,55-64,man,,asian,,,attending,,0,,0
+87,[Redacted],GROUP_006,2026-07-16 18:59:28,35-44,man,,asian,,,attending,,0,,0
+89,[Redacted],GROUP_006,2026-07-16 18:59:28,35-44,woman,,white,,,Ob/gyn,,0,,0
+78,[Redacted],GROUP_007,2026-07-09 20:23:05,45-54,man,,other,,,TEST,,1,,0
+79,[Redacted],GROUP_006,2026-07-09 20:23:05,35-44,woman,,white,,,Working Nurse Manager,,0,,0
+80,[Redacted],GROUP_006,2026-07-09 20:23:05,35-44,man,,asian,,,attending,,0,,0
+81,[Redacted],GROUP_006,2026-07-09 20:23:05,45-54,man,,asian,,,Obstetrics & Gynecology,,0,,0
+82,[Redacted],GROUP_006,2026-07-09 20:23:05,35-44,woman,,white,,,attending,,0,,0
+83,[Redacted],GROUP_006,2026-07-09 20:23:05,35-44,woman,,other,,,attending,,0,,0
+84,[Redacted],GROUP_006,2026-07-09 20:23:05,55-64,man,,white,,,practitioner,,0,,0
+85,[Redacted],GROUP_006,2026-07-09 20:23:05,35-44,woman,,other,,,attending,,0,,0
+86,[Redacted],GROUP_006,2026-07-09 20:23:05,35-44,woman,,other,,,attending,,0,,0
+77,[Redacted],GROUP_007,2026-06-27 03:40:08,45-54,man,,white,,,TEST,,0,,0
+73,[Redacted],GROUP_014,2026-06-15 06:59:00,prefer_not,prefer_not,,prefer_not,,,not_clinical,,0,,0
+74,[Redacted],GROUP_007,2026-06-15 06:59:00,25-34,man,,indigenous,,,attending,,1,,0
+75,[Redacted],GROUP_007,2026-06-15 06:59:00,45-54,non-binary,,latino,,,not_clinical,,0,,0
+76,[Redacted],GROUP_007,2026-06-15 06:59:00,45-54,man,,latino,,,TEST,,1,,1
+70,[Redacted],GROUP_014,2026-06-15 06:44:01,prefer_not,prefer_not,,prefer_not,,,not_clinical,,0,,0
+71,[Redacted],GROUP_014,2026-06-15 06:44:01,prefer_not,prefer_not,,prefer_not,,,not_clinical,,0,,0
+72,[Redacted],GROUP_014,2026-06-15 06:44:01,prefer_not,prefer_not,,prefer_not,,,not_clinical,,0,,0
+63,[Redacted],GROUP_014,2026-06-05 06:42:09,prefer_not,prefer_not,,prefer_not,,,not_clinical,,1,,0
+64,[Redacted],GROUP_006,2026-06-05 06:42:09,45-54,woman,,white,,,practitioner,,1,,0
+65,[Redacted],GROUP_008,2026-06-05 06:42:09,25-34,man,,latino,,,resident,,0,,0
+66,[Redacted],GROUP_008,2026-06-05 06:42:09,35-44,woman,,asian,,,not_clinical,,0,,0
+67,[Redacted],GROUP_008,2026-06-05 06:42:09,25-34,woman,,middle_eastern,,,other_medical_professional,,0,,0
+58,[Redacted],GROUP_007,2026-06-05 06:42:09,45-54,man,,asian,,,nursing_student,,1,,0
+68,[Redacted],GROUP_008,2026-06-05 06:42:09,18-24,man,,middle_eastern,,,not_clinical,,0,,0
+69,[Redacted],GROUP_008,2026-06-05 06:42:09,25-34,man,,latino,,,resident,,0,,0
+30,[Redacted],GROUP_015,2026-05-13 02:14:35,45-54,woman,,white,,,attending,,0,"many, i teach comm skills now",0
+31,[Redacted],GROUP_009,2026-05-13 02:14:35,45-54,prefer_not,,prefer_not,,,attending,,0,,0
+32,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,woman,,asian,,,Undergraduate Pre-Med Student,,0,,0
+33,[Redacted],GROUP_009,2026-05-13 02:14:35,55-64,man,,latino,,,attending,,0,,0
+34,[Redacted],GROUP_011,2026-05-13 02:14:35,55-64,man,,white,,,Palliative care,,0,"vital talk, NSCPM",0
+35,[Redacted],GROUP_009,2026-05-13 02:14:35,25-34,woman,,latino,,,General Med,,0,,0
+36,[Redacted],GROUP_013,2026-05-13 02:14:35,65+,man,,white,,,not_clinical,,0,,1
+37,[Redacted],GROUP_015,2026-05-13 02:14:35,35-44,woman,,asian,,,Palliative Care Physician,,0,Vital Talk Training ,0
+38,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,woman,,white,,,Occupational Therapist Student,,0,,1
+39,[Redacted],GROUP_011,2026-05-13 02:14:35,25-34,man,,white,,,general practice,,0,"Yes, in denmark during medical school",0
+40,[Redacted],GROUP_013,2026-05-13 02:14:35,55-64,woman,,white,,,"arts in healthcare administrator, faculty in med school health humanities",,0,,1
+42,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,woman,,asian,,,medical_student,,0,,0
+43,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,woman,,asian,,,Biomedical Engineering Student,,0,,1
+44,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,woman,,asian,,,medical_student,,0,,1
+45,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,woman,,asian,,,medical_student,,0,,0
+46,[Redacted],GROUP_013,2026-05-13 02:14:35,45-54,woman,,white,,,"Med-surg for 20 years, primary care for 5 years, ambulatory dental office 1.5 months",,0,,0
+47,[Redacted],GROUP_005,2026-05-13 02:14:35,25-34,woman,,black,,,medical_student,,0,,0
+48,[Redacted],GROUP_003,2026-05-13 02:14:35,35-44,woman,,middle_eastern,,,Assistant Professor of clinical dentistry,,0,,0
+49,[Redacted],GROUP_005,2026-05-13 02:14:35,25-34,man,,white,,,medical_student,,0,,0
+50,[Redacted],GROUP_014,2026-05-13 02:14:35,prefer_not,prefer_not,,prefer_not,,,not_clinical,,0,,1
+51,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,man,,asian,,,medical_student,,0,,0
+52,[Redacted],GROUP_005,2026-05-13 02:14:35,18-24,woman,,white,,,nursing_student,,0,,0
+53,[Redacted],GROUP_013,2026-05-13 02:14:35,18-24,man,,asian,,,medical_student,,0,,0
+54,[Redacted],GROUP_011,2026-05-13 02:14:35,45-54,woman,,white,,,registered_nurse,,0,,0
+55,[Redacted],GROUP_013,2026-05-13 02:14:35,25-34,man,,asian,,,not_clinical,,0,,0
+56,[Redacted],GROUP_005,2026-05-13 02:14:35,25-34,man,,asian,,,medical_student,,0,URMC Communication Coaching Session,0
+57,[Redacted],GROUP_005,2026-05-13 02:14:35,25-34,woman,,asian,,,medical_student,,0,,0
+61,[Redacted],GROUP_006,2026-05-13 02:14:35,25-34,woman,,white,,,not_clinical,,1,,0
+62,[Redacted],GROUP_011,2026-05-13 02:14:35,55-64,man,,white,,,practitioner,,0,Instructor in communication training at local hospital,0
+10,[Redacted],GROUP_014,2026-04-20 14:28:15,65+,man,,white,,,Family Medicine,,0,,0
+11,[Redacted],GROUP_011,2026-04-20 14:28:15,35-44,man,,white,,,Currently phd-student but have two years of residency behind me,,0,Am involved in motivational interviwing training through MINT as well as teaching communication for medical students,0
+12,[Redacted],GROUP_011,2026-04-20 14:28:15,55-64,man,,white,,,practitioner,,0,Phd,0
+13,[Redacted],GROUP_011,2026-04-20 14:28:15,25-34,man,,white,,,Medical researcher,,0,4C,0
+14,[Redacted],GROUP_011,2026-04-20 14:28:15,45-54,man,,white,,,not_clinical,,0,,0
+15,[Redacted],GROUP_011,2026-04-20 14:28:15,45-54,man,,prefer_not,,,Hospital Chaplain,,0,Four Habits,0
+16,[Redacted],GROUP_013,2026-04-20 14:28:15,35-44,woman,,white,,,Registered Nurse,,0,,1
+17,[Redacted],GROUP_003,2026-04-20 14:28:15,35-44,man,,middle_eastern,,,resident,,0,,0
+18,[Redacted],GROUP_003,2026-04-20 14:28:15,35-44,man,,white,,,resident,,0,,0
+19,[Redacted],GROUP_003,2026-04-20 14:28:15,25-34,woman,,middle_eastern,,,resident,,0,,0
+20,[Redacted],GROUP_009,2026-04-20 14:28:15,25-34,man,,latino,,,Internal Medicine,,0,,0
+21,[Redacted],GROUP_009,2026-04-20 14:28:15,25-34,woman,,latino,,,resident,,0,,0
+22,[Redacted],GROUP_009,2026-04-20 14:28:15,25-34,woman,,latino,,,Internal medicine resident,,0,"In med school, my communication skills module",0
+23,[Redacted],GROUP_009,2026-04-20 14:28:15,25-34,man,,latino,,,resident,,0,,0
+25,[Redacted],GROUP_009,2026-04-20 14:28:15,25-34,man,,latino,,,resident,,0,,0
+24,[Redacted],GROUP_009,2026-04-20 14:28:15,25-34,woman,,latino,,,practitioner,,0,,0
+26,[Redacted],GROUP_009,2026-04-20 14:28:15,35-44,woman,,latino,,,practitioner,,1,,1
+27,[Redacted],GROUP_010,2026-04-20 14:28:15,35-44,woman,,asian,,,attending,,0,SICP,1
+28,[Redacted],GROUP_009,2026-04-20 14:28:15,25-34,man,,latino,,,IM,,0,,0
+29,[Redacted],GROUP_012,2026-04-20 14:28:15,35-44,woman,,white,,,attending,,0,palliative care fellowship,1
+3,[Redacted],GROUP_013,2026-04-04 23:11:09,18-24,woman,,other,,,Registered Nurse,,0,,1
+4,[Redacted],GROUP_004,2026-04-04 23:11:09,55-64,woman,,white,,,attending,,0,,0
+5,[Redacted],GROUP_004,2026-04-04 23:11:09,45-54,woman,,white,,,attending,,0,,0
+6,[Redacted],GROUP_001,2026-04-04 23:11:09,25-34,woman,,white,,,Palliative Care Fellow/ ED attending,,1,,0
+7,[Redacted],GROUP_004,2026-04-04 23:11:09,35-44,woman,,white,,,Family Medicine,,0,General training as a student and resident,0
+8,[Redacted],GROUP_004,2026-04-04 23:11:09,35-44,woman,,asian,,,attending,,0,,0
+9,[Redacted],GROUP_004,2026-04-04 23:11:09,45-54,woman,,prefer_not,,,attending,,0,,0
+1,[Redacted],GROUP_004,2026-03-23 21:42:19,25-34,woman,,white,,,Family Medicine Attending,,0,,0
+2,[Redacted],GROUP_013,2026-03-23 21:42:19,25-34,man,,asian,,,medical_student,,0,,0

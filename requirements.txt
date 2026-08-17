@@ -1,0 +1,4 @@
+ipykernel
+seaborn
+pingouin
+openai
